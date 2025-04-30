@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高性能MySQL（第四版）/第一章 MYSQL 架构.md",
+                "file": "高性能MySQL（第四版）/第六章 schema的设计与管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一章 MYSQL 架构"
+              "title": "第六章 schema的设计与管理"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高性能MySQL（第四版）/第一章 MYSQL 架构.md",
+                "file": "zhongjidoc/Anaconda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 第一章 MYSQL 架构"
+              "title": "Backlinks for Anaconda"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高性能MySQL（第四版）/第一章 MYSQL 架构.md",
+                "file": "zhongjidoc/Anaconda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 第一章 MYSQL 架构"
+              "title": "Outgoing links from Anaconda"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高性能MySQL（第四版）/第一章 MYSQL 架构.md",
+                "file": "zhongjidoc/Anaconda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 第一章 MYSQL 架构"
+              "title": "Outline of Anaconda"
             }
           }
         ]
@@ -160,25 +160,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "47a6307a2e2f6f22",
   "lastOpenFiles": [
-    "高性能MySQL（第四版）/img/死锁演示图.png",
     "高性能MySQL（第四版）/第一章 MYSQL 架构.md",
-    "高性能MySQL（第四版）/img/MYSQL服务器复制拓扑的简化视图.png",
+    "高性能MySQL（第四版）/第六章 schema的设计与管理.md",
+    "高性能MySQL（第四版）/第六章img/链接 VARCHAR 和 ENUM列的速度.png",
+    "zhongjidoc/Anaconda.md",
+    "高性能MySQL（第四版）/第六章img",
+    "zhongjidoc",
+    "高性能MySQL（第四版）/第一章 img/死锁演示图.png",
+    "高性能MySQL（第四版）/第一章 img/MYSQL服务器复制拓扑的简化视图.png",
     "README.md",
-    "高性能MySQL（第四版）/img/数据可见性算法.png",
-    "高性能MySQL（第四版）/img/跨不同事务处理同一行多个版本的序列图.png",
-    "高性能MySQL（第四版）/img/事务可见性示意图.png",
-    "高性能MySQL（第四版）/img/MySQL 服务器架构的逻辑视图.png",
-    "高性能MySQL（第四版）/img",
+    "高性能MySQL（第四版）/第一章 img/数据可见性算法.png",
+    "高性能MySQL（第四版）/第一章 img/跨不同事务处理同一行多个版本的序列图.png",
+    "高性能MySQL（第四版）/第一章 img/事务可见性示意图.png",
+    "高性能MySQL（第四版）/第一章 img/MySQL 服务器架构的逻辑视图.png",
+    "高性能MySQL（第四版）/第一章 img",
     "Untitled.md",
     "高性能MySQL（第四版）"
   ]
